@@ -20,11 +20,11 @@ Each country is processed and published independently as a self-contained versio
 
 **Published:**
 
-[![ECOD Lithuania](https://img.shields.io/badge/ECOD-Lithuania-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.21259704)
+[![ECOD Estonia](https://img.shields.io/badge/ECOD-Estonia-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.22305095)
 
 [![ECOD Latvia](https://img.shields.io/badge/ECOD-Latvia-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.22657380)
 
-[![ECOD Estonia](https://img.shields.io/badge/ECOD-Estonia-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.22305095)
+[![ECOD Lithuania](https://img.shields.io/badge/ECOD-Lithuania-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.21259704)
 
 ## Why this project exists
 
