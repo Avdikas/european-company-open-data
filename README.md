@@ -28,7 +28,7 @@ Each country is processed and published independently as a self-contained versio
 
 [![ECOD Lithuania](https://img.shields.io/badge/ECOD-Lithuania-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.21259704)
 
-[![ECOD Norway](https://img.shields.io/badge/ECOD-Norway-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.22953419)
+[![ECOD Norway](https://img.shields.io/badge/ECOD-Norway-blue?style=for-the-badge&logo=zenodo)](https://zenodo.org/records/22953419)
 
 ## Why this project exists
 
