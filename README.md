@@ -22,7 +22,7 @@ Each country is processed and published independently as a self-contained versio
 
 [![ECOD Estonia](https://img.shields.io/badge/ECOD-Estonia-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.22305095)
 
-[![ECOD Finland](https://img.shields.io/badge/ECOD-Finland-blue?style=for-the-badge&logo=zenodo)](https://zenodo.org/records/22941459)
+[![ECOD Finland](https://img.shields.io/badge/ECOD-Finland-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.22941459)
 
 [![ECOD Latvia](https://img.shields.io/badge/ECOD-Latvia-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.22657380)
 
