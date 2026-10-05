@@ -30,7 +30,7 @@ Each country is processed and published independently as a self-contained versio
 
 [![ECOD Norway](https://img.shields.io/badge/ECOD-Norway-blue?style=for-the-badge&logo=zenodo)](https://zenodo.org/records/22953419)
 
-[![ECOD Sweden](https://img.shields.io/badge/ECOD-Sweden-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.23164414)
+[![ECOD Sweden](https://img.shields.io/badge/ECOD-Sweden-blue?style=for-the-badge&logo=zenodo)](https://zenodo.org/records/23164414)
 
 ## Why this project exists
 
