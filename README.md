@@ -30,6 +30,8 @@ Each country is processed and published independently as a self-contained versio
 
 [![ECOD Norway](https://img.shields.io/badge/ECOD-Norway-blue?style=for-the-badge&logo=zenodo)](https://zenodo.org/records/22953419)
 
+[![ECOD Sweden](https://img.shields.io/badge/ECOD-Sweden-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.23164414)
+
 ## Why this project exists
 
 Company register data across Europe is often publicly available but not available in bulk, structured inconsistently between countries, distributed in incompatible formats, and often only practically accessible through commercial aggregators or paid APIs - despite already containing high-quality official information on legal entities.
